@@ -5,6 +5,6 @@ while count < array.length do
     return count
   else return count + 1
 end
-count +=
+count += 1
 end
 end
